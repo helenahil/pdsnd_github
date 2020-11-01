@@ -5,7 +5,7 @@ This project was created in November 2020.
 Version control project (Udacity)
 
 ### Description
-Describe what your project is about and what it does
+This project is created in order to improve the use of version control skills acquired during this course.
 
 ### Files used
 bikeshare.py
