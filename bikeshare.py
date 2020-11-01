@@ -40,7 +40,7 @@ def get_filters():
     DayChosen = input("Which day? {}?".format(Question_Text(Days)))
 
     while DayChosen.lower() not in Days:
-        print ("Sorry, There is not info for this day")
+        print ("Sorry, There is not info for this day. You could try again")
         DayChosen = input("Which day? {}?".format(Question_Text(Days)))
 
 
